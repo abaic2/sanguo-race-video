@@ -1,0 +1,9 @@
+# 依赖
+node_modules/
+.venv/
+
+# 本地运行产物（clone 后由 `npx remotion render` 重新生成）
+out/
+
+# WorkBuddy 工作区
+.workbuddy/
